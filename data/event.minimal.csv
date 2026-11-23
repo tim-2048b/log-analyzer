@@ -1,0 +1,29 @@
+Level,Date And Time,Source,Event ID,Task Category,Message
+Error,11/11/2026 10:52:23 AM,Microsoft-SharePoint Products-SharePoint Foundation,2159,Unified Logging Service,Event 5586 (SharePoint Foundation) of severity 'Error' occurred 20 more time(s) and was suppressed in the event log
+Information,11/11/2026 10:51:53 AM,Microsoft-SharePoint Products-SharePoint Foundation,3,General,926052218: #960010: 結束載入掃毒程式。未安裝掃毒程式。
+Information,11/11/2026 10:51:52 AM,Microsoft-SharePoint Products-SharePoint Foundation,3,General,926052217: #96000f: 正在下載掃毒程式...
+Error,11/11/2026 10:51:11 AM,Microsoft-SharePoint Products-SharePoint Server,2159,Unified Logging Service,Event 2548 (SharePoint Server Search) of severity 'Error' occurred 30 more time(s) and was suppressed in the event log
+Information,11/11/2026 10:50:49 AM,Microsoft-SharePoint Products-SharePoint Foundation,8356,General,"SharePoint booted. Process Name: [powershell_ise] App Pool: [N/A], Process ID: [0x1E58], App Domain Name and ID [powershell_ise.exe],[1], Command Line ['C:\Windows\System32\WindowsPowerShell\v1.0\powershell_ise.exe' ]"
+Information,11/11/2026 10:50:49 AM,Microsoft-Windows-RestartManager,10001,None,Ending session 5 started 2026‎-‎11-11T02:50:49.567306900Z.
+Information,11/11/2026 10:50:49 AM,Microsoft-Windows-RestartManager,10000,None,Starting session 5 - ‎2026‎-‎11‎-‎11T02:50:49.567306900Z.
+Critical,11/11/2026 10:50:10 AM,Microsoft-SharePoint Products-SharePoint Foundation,6398,Timer,"The Execute method of job definition Microsoft.Office.Server.Search.Administration.CustomDictionaryDeploymentJobDefinition (ID 0d557a40-9490-44d9-8998-a623f2f1bc7f) threw an exception. More information is included below."
+
+Information,11/11/2026 10:50:07 AM,Microsoft-SharePoint Products-SharePoint Foundation,8356,General,"SharePoint booted. Process Name: [powershell] App Pool: [N/A], Process ID: [0x2548], App Domain Name and ID [DefaultDomain],[1], Command Line [""C:\WINDOWS\System32\WindowsPowerShell\v1.0\PowerShell.exe"" -NoExit -Command ""& 'C:\Program Files\WindowsPowerShell\Modules\SharePointServer\SharePoint.ps1'""]"
+Information,11/11/2026 10:48:08 AM,Microsoft-Windows-Security-SPP,16384,None,Successfully scheduled Software Protection service for re-start at 2026-11-30T03:23:08Z. Reason: RulesEngine.
+Information,11/11/2026 10:47:38 AM,Microsoft-Windows-Security-SPP,1003,None,"The Software Protection service has completed licensing status check."
+Information,11/11/2026 10:47:37 AM,Microsoft-Windows-Security-SPP,16389,None,"The description for Event ID 16389 from source Microsoft-Windows-Security-SPP cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.If the event originated on another computer the display information had to be saved with the event.The following information was included with the event: 0xC004D30B.The message resource is present but the message was not found in the message table"
+
+Information,11/11/2026 10:47:37 AM,Microsoft-Windows-Security-SPP,16394,None,Offline downlevel migration succeeded.
+Error,11/11/2026 10:47:23 AM,Microsoft-SharePoint Products-SharePoint Foundation,2159,Unified Logging Service,Event 5586 (SharePoint Foundation) of severity 'Error' occurred 20 more time(s) and was suppressed in the event log
+Error,11/11/2026 10:46:11 AM,Microsoft-SharePoint Products-SharePoint Server,2159,Unified Logging Service,Event 2548 (SharePoint Server Search) of severity 'Error' occurred 30 more time(s) and was suppressed in the event log
+Information,11/11/2026 10:43:48 AM,Microsoft-Windows-Security-SPP,16384,None,Successfully scheduled Software Protection service for re-start at 2026-11-30T03:22:48Z. Reason: RulesEngine.
+Information,11/11/2026 10:43:18 AM,Microsoft-Windows-Security-SPP,1003,None,"The Software Protection service has completed licensing status check.
+Information,11/11/2026 10:43:18 AM,Microsoft-Windows-Security-SPP,16394,None,Offline downlevel migration succeeded.
+Error,11/11/2026 10:42:23 AM,Microsoft-SharePoint Products-SharePoint Foundation,2159,Unified Logging Service,Event 5586 (SharePoint Foundation) of severity 'Error' occurred 20 more time(s) and was suppressed in the event log
+Error,11/11/2026 10:41:10 AM,Microsoft-SharePoint Products-SharePoint Server,2159,Unified Logging Service,Event 2548 (SharePoint Server Search) of severity 'Error' occurred 30 more time(s) and was suppressed in the event log
+Critical,11/11/2026 10:40:10 AM,Microsoft-SharePoint Products-SharePoint Foundation,6398,Timer,"The Execute method of job definition Microsoft.Office.Server.Search.Administration.CustomDictionaryDeploymentJobDefinition (ID 0d557a40-9490-44d9-8998-a623f2f1bc7f) threw an exception. More information is included below."
+Error,11/11/2026 10:37:23 AM,Microsoft-SharePoint Products-SharePoint Foundation,2159,Unified Logging Service,Event 5586 (SharePoint Foundation) of severity 'Error' occurred 20 more time(s) and was suppressed in the event log
+Error,11/11/2026 10:36:10 AM,Microsoft-SharePoint Products-SharePoint Server,2159,Unified Logging Service,Event 2548 (SharePoint Server Search) of severity 'Error' occurred 30 more time(s) and was suppressed in the event log
+Error,11/11/2026 10:32:23 AM,Microsoft-SharePoint Products-SharePoint Foundation,2159,Unified Logging Service,Event 5586 (SharePoint Foundation) of severity 'Error' occurred 20 more time(s) and was suppressed in the event log
+Error,11/11/2026 10:31:10 AM,Microsoft-SharePoint Products-SharePoint Server,2159,Unified Logging Service,Event 2548 (SharePoint Server Search) of severity 'Error' occurred 30 more time(s) and was suppressed in the event log
+
